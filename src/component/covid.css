@@ -1,0 +1,21 @@
+.table{
+    background:#000;
+}
+
+.table-header{
+    display:flex;
+	border:1px solid;
+	
+}
+.thead{
+    text-align: center;
+    
+    display: table;
+}
+
+.heading{
+    color: white;
+    background-color: black;
+    width:16%;
+}
+
